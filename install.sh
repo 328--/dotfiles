@@ -10,3 +10,4 @@ cp ~/.tmux.conf ~/.tmux.conf.backup
 cp -r .zsh ~/.zsh/
 cp .zshrc ~/.zshrc
 cp .tmux.conf ~/.tmux.conf
+source ~/.zshrc
